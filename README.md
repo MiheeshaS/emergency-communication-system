@@ -30,8 +30,8 @@ The system integrates **GPS tracking** and **voice-based reporting** to ensure r
 
 ## 👩‍💻 Author
 **Miheesha Samarakoon**  
-- COS10030 – Digital Technology in an Indigenous Community  
-- Email: [miheeshasamarakkon2004@gmail.com](mailto:miheeshasamarakkon2004@gmail.com)  
+- COS10030 - Digital Technology in an Indigenous Community  
+- Email: [miheeshasamarakkon2004@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=miheeshasamarakoon2004@gmail.com)  
 
 ---
 
